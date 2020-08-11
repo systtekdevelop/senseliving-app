@@ -29,7 +29,7 @@
             <!-- Slider -->
             <div class="swiper-container introslider">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide" style="background-image:url(/wp-content/themes/senseliving-app/images/slider01.jpg');">
+                    <div class="swiper-slide" style="background-image:url(http://app.senselivingspaces.com/wp-content/uploads/2020/08/slider01.jpg);">
                         <div class="slider-caption">
                                 <div class="slider-caption__line" data-swiper-parallax="-200%">01</div>
                             <h2 data-swiper-parallax="-100%">The secret to creativity is knowing how to hide your sources</h2>
@@ -37,14 +37,14 @@
                         </div>
                     </div> 
                         
-                    <div class="swiper-slide" style="background-image:url(/wp-content/themes/senseliving-app/images/slider02.jpg');">
+                    <div class="swiper-slide" style="background-image:url(http://app.senselivingspaces.com/wp-content/uploads/2020/08/slider02.jpg);">
                         <div class="slider-caption">
                             <div class="slider-caption__line" data-swiper-parallax="-200%">02</div>
                             <h2 data-swiper-parallax="-100%">I never think of the future – it comes soon enough</h2>
                             <a href="about.html" class="slider-caption__more" data-swiper-parallax="-60%">VIEW MORE</a>
                         </div>	
                     </div>
-                    <div class="swiper-slide" style="background-image:url(/wp-content/themes/senseliving-app/images/slider03.jpg');">
+                    <div class="swiper-slide" style="background-image:url(http://app.senselivingspaces.com/wp-content/uploads/2020/08/slider03.jpg);">
                         <div class="slider-caption">
                             <div class="slider-caption__line" data-swiper-parallax="-200%">03</div>
                             <h2 data-swiper-parallax="-100%">Creativity makes life more fun and more interesting</h2>

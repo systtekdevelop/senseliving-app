@@ -1236,14 +1236,14 @@ body.panel-closing .views {
   top: auto; }
 
 .swiper-button-next {
-  background: url(./images/nav-next.png) no-repeat center;
+  background: url(/wp-content/themes/senseliving-app/images/nav-next.png) no-repeat center;
   width: 21px;
   height: 21px;
   bottom: 5%;
   right: 2.5%; }
 
 .swiper-button-prev {
-  background: url(./images/nav-prev.png) no-repeat center;
+  background: url(/wp-content/themes/senseliving-app/images/nav-prev.png) no-repeat center;
   width: 21px;
   height: 21px;
   bottom: 5%;
