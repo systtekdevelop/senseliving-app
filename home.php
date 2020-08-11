@@ -5,7 +5,7 @@
     <div class="panel-overlay"></div>
 
     <!-- Left panel -->
-    <?php require_once('./panel-left.php'); ?>
+    <?php require('./panel-left.php'); ?>
     <div id="panel-left"></div>
     <!-- Right panel -->
     <div id="panel-right"></div>
