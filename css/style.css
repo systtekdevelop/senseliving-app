@@ -291,7 +291,7 @@ textarea, input, select {
   z-index: 999999; }
 
 .navbar--fixed-top {
-  top: 0; }
+  top: 35px; }
 
 .navbar--fixed-bottom {
   bottom: 0; }
