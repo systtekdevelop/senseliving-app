@@ -43,7 +43,7 @@ function senseliving_app_styles() {
     /** Theme Styles */
     wp_enqueue_style( 'senseliving-app', get_stylesheet_directory_uri(). '/css/style.css', false, '1.0.0');
     /** Custom Styles */
-    wp_enqueue_style( 'custom', get_stylesheet_directory_uri(). '/style.css', false, '1.0.0');
+    wp_enqueue_style( 'senseliving-custom', get_stylesheet_directory_uri(). '/custom.css', false, false);
 }
 add_action( 'wp_enqueue_scripts', 'senseliving_app_styles', 5 );
 
