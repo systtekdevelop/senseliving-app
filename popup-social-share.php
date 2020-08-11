@@ -1,5 +1,3 @@
-<?php get_header(); ?>
-
 <div class="popup popup-social">
     <div class="popup-content">
       <h4>Social Share</h4>
@@ -15,5 +13,3 @@
      <a href="#" class="close-popup close-popup--x" data-popup=".popup-social"></a>
     </div>
 </div>
-
-<?php get_footer(); ?>

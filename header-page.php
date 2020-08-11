@@ -1,5 +1,3 @@
-<?php get_header(); ?>
-
 <div class="navbar__col navbar__col--title">
 <a href="index.html">ni<span>o</span>be</a>
 </div>
@@ -12,5 +10,3 @@
 <div class="navbar__col navbar__col--icon navbar__col--icon-menu navbar__col--icon-right">
 <a href="#" data-panel="left" class="open-panel"><span></span><span></span><span></span><span></span></a>
 </div>
-
-<?php get_footer(); ?>

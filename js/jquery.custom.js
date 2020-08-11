@@ -7,10 +7,10 @@ jQuery.noConflict();
 
 (function () {
 	
-	//var pageid = $('.page').data("page");
+	var pageid = $('.page').data("page");
 	
 
-	$( "body#mobile-wrap #panel-left" ).load( "<?php get_theme_file_uri('/panel-left.php'); ?>", function() {
+	$( "#panel-left" ).load( "<?php get_theme_file_uri('/panel-left.php'); ?>", function() {
 		var swipersubnav = new Swiper ('.multinav', {
 			direction: 'horizontal',
 			effect: 'slide',

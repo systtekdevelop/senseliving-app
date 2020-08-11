@@ -1,5 +1,3 @@
-<?php get_header(); ?>
-
 <div class="popup popup-forgot"> 
  <div class="popup-content">
             <h4>Don't worry</h4>
@@ -16,5 +14,3 @@
            <a href="#" class="close-popup close-popup--x" data-popup=".popup-forgot"></a>
         </div>
 </div>
-
-<?php get_footer(); ?>

@@ -1,5 +1,3 @@
-<?php get_header(); ?>
-
 <div class="panel panel-left panel-reveal">
                   <!-- Slider -->
                  <div class="swiper-container-subnav multinav">
@@ -75,4 +73,3 @@
 		</div>
 </div>
 
-<?php get_footer(); ?>

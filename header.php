@@ -19,4 +19,3 @@
         <?php wp_head(); ?>
     </head>
 
-<body id="mobile-wrap" <?php body_class(); ?>>

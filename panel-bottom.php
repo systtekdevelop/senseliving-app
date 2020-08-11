@@ -1,4 +1,4 @@
-<?php get_header(); ?>
+
 
 <div class="panel panel-bottom panel-reveal">
 		 <div class="swiper-container-toolbar swiper-toolbar">
@@ -23,4 +23,3 @@
 		  </div>
 </div>	
 
-<?php get_footer(); ?>

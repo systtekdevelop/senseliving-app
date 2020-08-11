@@ -1,5 +1,3 @@
-<?php get_header(); ?>
-
 <div class="panel panel-right panel-reveal">
       <div class="user_login_info">
 	  
@@ -22,5 +20,3 @@
                   </nav>
       </div>
 </div>
-
-<?php get_footer(); ?>

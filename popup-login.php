@@ -1,5 +1,3 @@
-<?php get_header(); ?>
-
 <div class="popup popup-login"> 
         <div class="popup-content">
             <h4>Welcome back</h4>
@@ -22,5 +20,3 @@
      
         </div>
 </div>
-
-<?php get_footer(); ?>

@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-
+<body id="mobile-wrap" <?php body_class(); ?>>
         
     <div class="panel-overlay"></div>
 
@@ -85,6 +85,9 @@
 
     <!-- Social Icons Popup -->
     <div id="popup-social"></div>
+
+    <?php wp_footer(); ?>
+</body>
 
 
 <?php get_footer(); ?>

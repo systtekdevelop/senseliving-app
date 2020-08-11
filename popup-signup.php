@@ -1,5 +1,3 @@
-<?php get_header(); ?>
-
 <div class="popup popup-signup">
         <div class="popup-content">
             <h4>Create an account</h4>
@@ -20,5 +18,3 @@
              <a href="#" class="close-popup close-popup--x" data-popup=".popup-signup"></a>
         </div>
  </div>
-
-<?php get_footer(); ?>
