@@ -3,3 +3,13 @@
     padding: 5px;
     margin-top: 5px;
 }
+
+.swiper-container.introslider .swiper-slide:before {
+    content: "";
+    background-color: #000;
+    opacity: 0.6;
+    position: absolute;
+    background-size: cover;
+    background-position: center center;
+    
+}
