@@ -19,7 +19,7 @@
             <div class="navbar navbar--fixed navbar--fixed-top">
                 <div class="navbar__col navbar__col--title">
                     <a href="<?php home_url(); ?>">
-                        <img class="app-logo" src="<?php get_stylesheet_directory_uri() . '/images/logo-app-white.svg' ?>" alt="Sense Living App" />
+                        <img class="app-logo" src="/wp-content/themes/senseliving-app/images/logo-app-white.svg" alt="Sense Living App" />
                     </a>
                 </div>
                 <div class="navbar__col navbar__col--icon navbar__col--icon-menu">

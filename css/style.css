@@ -1,12 +1,3 @@
-/*==============================================
-[Main stylesheet style.css]
-
-Author:	SINDEVO.COM - Smart Interface Development
-Version:	1.0
-Created:	14 August 2019
-Last updated:	14 August 2019
-Template:	Niobe - Mobile HTML Template
-================================================*/
 /*
 [Table of Contents]
 
@@ -39,7 +30,7 @@ Template:	Niobe - Mobile HTML Template
 /*===============================================*/
 /* 1. RESET		 						 */
 /*===============================================*/
-@import url(reset.css);
+
 /*===============================================*/
 /* SCSS VARIABLES  */
 /*===============================================*/
@@ -79,7 +70,7 @@ body {
   -webkit-text-size-adjust: 100%;
   overflow: hidden;
   font-weight: 300;
-  background-color: #292d42; }
+  background-color: #7394A5; }
 
 input, textarea {
   font-family: "Assistant", sans-serif;
@@ -97,7 +88,7 @@ input, textarea {
 
 a {
   text-decoration: none;
-  color: #ff6251; }
+  color: #A4B6C0; }
 
 p {
   padding: 0px;
@@ -872,18 +863,18 @@ body.panel-closing .views {
   .bottom-menu-open__left {
     width: 25px;
     height: 25px;
-    background-image: radial-gradient(circle at 0 0, rgba(204, 0, 0, 0) 25px, #ff6251 25px); }
+    background-image: radial-gradient(circle at 0 0, rgba(204, 0, 0, 0) 25px, #A4B6C0 25px); }
   .bottom-menu-open__container {
     width: 50px;
     height: 27px;
     padding-top: 18px;
-    background-color: #ff6251;
+    background-color: #A4B6C0;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%; }
   .bottom-menu-open__right {
     width: 25px;
     height: 25px;
-    background-image: radial-gradient(circle at 100% 0, rgba(204, 0, 0, 0) 25px, #ff6251 25px); }
+    background-image: radial-gradient(circle at 100% 0, rgba(204, 0, 0, 0) 25px, #A4B6C0 25px); }
 
 .bottom-menu-open__icon {
   width: 26px;
@@ -955,7 +946,7 @@ body.panel-closing .views {
   transition-property: transform; }
 
 .homepage {
-  background-color: #292d42; }
+  background-color: ##7394A5; }
 
 .page--conversation {
   background-color: #ff6251; }
@@ -1227,14 +1218,14 @@ body.panel-closing .views {
   top: auto; }
 
 .swiper-button-next {
-  background: url(../images/nav-next.png) no-repeat center;
+  background: url(./images/nav-next.png) no-repeat center;
   width: 21px;
   height: 21px;
   bottom: 5%;
   right: 2.5%; }
 
 .swiper-button-prev {
-  background: url(../images/nav-prev.png) no-repeat center;
+  background: url(./images/nav-prev.png) no-repeat center;
   width: 21px;
   height: 21px;
   bottom: 5%;
