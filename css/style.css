@@ -341,7 +341,7 @@ textarea, input, select {
   font-size: 10px;
   width: 15px;
   height: 15px;
-  background-color: #ff6251;
+  background-color: #A4B6C0;
   color: #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -360,7 +360,7 @@ textarea, input, select {
 .navbar__col--icon-menu span {
   width: 5px;
   height: 5px;
-  border: 1px solid #ff6251;
+  border: 1px solid #A4B6C0;
   margin: 2px; }
 
 /*===============================================*/
@@ -369,7 +369,7 @@ textarea, input, select {
 .btn {
   display: inline-block;
   color: #fff;
-  background-color: #ff6251;
+  background-color: #7394A5;
   padding: 12px 30px;
   font-size: 14px;
   letter-spacing: 1px;
@@ -387,7 +387,7 @@ textarea, input, select {
   text-align: center; }
 
 a.button_small {
-  background-color: #455dfe;
+  background-color: #7394A5;
   display: inline-block;
   color: #222222;
   padding: 10px 20px;
@@ -423,7 +423,7 @@ a.button_small {
   background-color: #f7f7f7; }
 
 .button.active {
-  background: #455dfe;
+  background: #A4B6C0;
   color: #222222; }
 
 .buttons-row .button:first-child {
