@@ -88,7 +88,7 @@ body {
   -webkit-text-size-adjust: 100%;
   overflow: hidden;
   font-weight: 300;
-  background-color: #292d42; }
+  background-color: #7394A5; }
 
 input, textarea {
   font-family: "Assistant", sans-serif;
@@ -106,7 +106,7 @@ input, textarea {
 
 a {
   text-decoration: none;
-  color: #ff6251; }
+  color: #A4B6C0; }
 
 p {
   padding: 0px;
@@ -881,18 +881,18 @@ body.panel-closing .views {
   .bottom-menu-open__left {
     width: 25px;
     height: 25px;
-    background-image: radial-gradient(circle at 0 0, rgba(204, 0, 0, 0) 25px, #ff6251 25px); }
+    background-image: radial-gradient(circle at 0 0, rgba(204, 0, 0, 0) 25px, #A4B6C0 25px); }
   .bottom-menu-open__container {
     width: 50px;
     height: 27px;
     padding-top: 18px;
-    background-color: #ff6251;
+    background-color: #A4B6C0;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%; }
   .bottom-menu-open__right {
     width: 25px;
     height: 25px;
-    background-image: radial-gradient(circle at 100% 0, rgba(204, 0, 0, 0) 25px, #ff6251 25px); }
+    background-image: radial-gradient(circle at 100% 0, rgba(204, 0, 0, 0) 25px, #A4B6C0 25px); }
 
 .bottom-menu-open__icon {
   width: 26px;
@@ -964,7 +964,7 @@ body.panel-closing .views {
   transition-property: transform; }
 
 .homepage {
-  background-color: #292d42; }
+  background-color: ##7394A5; }
 
 .page--conversation {
   background-color: #ff6251; }
