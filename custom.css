@@ -7,9 +7,10 @@
 .swiper-container.introslider .swiper-slide:before {
     content: "";
     background-color: #000;
-    opacity: 0.6;
+    opacity: 0.5;
     position: absolute;
     background-size: cover;
     background-position: center center;
-    
+    width: 100%;
+    height: 100vh;
 }
